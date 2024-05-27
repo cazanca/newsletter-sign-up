@@ -1,6 +1,6 @@
 # Frontend Mentor - Newsletter sign up solution
 
-This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW).
+This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv).
 
 
 ## Overview
@@ -9,15 +9,12 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Add new todos to the list
-- Mark todos as complete
-- Delete todos from the list
-- Filter by all/active/complete todos
-- Clear all completed todos
-- Toggle light and dark mode
-- **Bonus**: Persist data
+- Add their email and submit the form
+- See a success message with their email after successfully submitting the form
+- See the form validation messages if:
+    - The field is left empty
+    - The email address is not formatted correctly
+- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
