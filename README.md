@@ -1,35 +1,44 @@
-# newsletter-sign-up
+# Frontend Mentor - Newsletter sign up solution
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW).
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Overview
 
-## Customize configuration
+### The challenge
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Users should be able to:
 
-## Project Setup
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Add new todos to the list
+- Mark todos as complete
+- Delete todos from the list
+- Filter by all/active/complete todos
+- Clear all completed todos
+- Toggle light and dark mode
+- **Bonus**: Persist data
 
-```sh
-npm install
-```
+### Screenshot
 
-### Compile and Hot-Reload for Development
+![](./screenshot.png)
 
-```sh
-npm run dev
-```
+### Links
 
-### Compile and Minify for Production
+- Solution URL:(https://github.com/cazanca/newsletter-sign-up)
+- Live Site URL: (https://newsletter-sign-up-self.vercel.app/)
 
-```sh
-npm run build
-```
 
-### Lint with [ESLint](https://eslint.org/)
+### Built with
 
-```sh
-npm run lint
-```
+- Semantic HTML5 markup
+- CSS custom properties
+- Flex box
+- [Vue](https://vuejs.org/) - JS library
+- [Tailwindcss](https://tailwindcss.com/) - A utility-first CSS framework
+
+
+
+## Author
+
+- Frontend Mentor - [@cazanca](https://www.frontendmentor.io/profile/cazanca)

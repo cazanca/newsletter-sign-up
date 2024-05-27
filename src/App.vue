@@ -1,7 +1,7 @@
 <template>
   <div class="h-screen flex items-center justify-center">
     <div v-if="!success" class="h-3/4 flex gap-4 items-center bg-white rounded-2xl p-8">
-      <div class="w-[380px] pl-4">
+      <div class="w-[360px] pl-4">
         <h2 class="text-4xl font-bold text-slate-800">Stay updated!</h2>
         <p class="text-sm mt-4 text-slate-800">
           Join 60,000+ product managers receiving monthly updates on:
@@ -49,9 +49,9 @@
         </form>
       </div>
       <div
-        class="w-[320px] h-full"
+        class="w-[320px] rounded-2xl h-full"
         style="
-          background-image: url('./src/assets/images/illustration-sign-up-desktop.svg');
+          background-image: url('./illustration-sign-up-desktop.svg');
           background-position: center;
           background-size: cover;
         "
